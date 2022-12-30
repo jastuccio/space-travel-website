@@ -1,14 +1,5 @@
-<!-- -----------------------------------------
-             CHALLENGES
-             Use the utility classess we created to: 
-               1. Hold the content in the middle of the page
-               2. Wrap the content in either a flex or grid 
-               3. Try changing the gap variable without modifying the original utlitiy class
-               4. Use the .sr-only class on a div and see what happens
-         ------------------------------------------ -->
-<div class="container">
-	<div class="box">a</div>
-	<div class="box">b</div>
-	<div class="box">c</div>
-	<div class="box">d</div>
-</div>
+<script>
+	import Typography from '../lib/typography.svelte';
+</script>
+
+<Typography />
