@@ -110,6 +110,19 @@ select {
     gap: var(--gap, 1rem);
 }
 
+/* 'Andy Bell' owl selector
+
+.flow > * + * {
+    margin-top: 1rem;
+    outline: 1px solid red;
+} */
+
+/* Kevin Powell's code */
+.flow > *:not(:first-child) {
+    margin-top: 1rem;
+    outline: 1px solid red;
+}
+
 .container {
     padding-inline: 2em;
     margin-inline: auto;
