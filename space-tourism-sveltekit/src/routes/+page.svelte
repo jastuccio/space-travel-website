@@ -1,6 +1,7 @@
 <script>
 	import Colors from '../lib/Colors.svelte';
-	import Typography from '../lib/typography.svelte';
+	import InteractiveElements from '../lib/Interactive-elements.svelte';
+	import Typography from '../lib/Typography.svelte';
 
 	// src="index.pack.js"
 </script>
@@ -10,4 +11,5 @@
 
 	<Colors />
 	<Typography />
+	<InteractiveElements />
 </div>
