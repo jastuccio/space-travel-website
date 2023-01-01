@@ -1,5 +1,5 @@
 <section id="typography" style="margin: 4rem 0">
-	<h2><span>02 </span>Typography</h2>
+	<h2 class="numbered-title"><span>02 </span>Typography</h2>
 	<div class="flex">
 		<div style="flex-basis: 100%">
 			<div>

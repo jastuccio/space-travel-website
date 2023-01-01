@@ -1,5 +1,5 @@
 <section id="colors">
-	<h2><span>01</span> colors</h2>
+	<h2 class="numbered-title"><span>01</span> colors</h2>
 	<div class="flex">
 		<div style="flex-grow: 1;">
 			<div class="bg-dark text-white" style="padding: 3rem 1rem 1rem; border: 1px solid white">
@@ -24,3 +24,9 @@
 		</div>
 	</div>
 </section>
+
+<style>
+	#colors {
+		margin: 4rem 0;
+	}
+</style>

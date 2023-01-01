@@ -6,7 +6,7 @@
 </script>
 
 <div class="container">
-	<h1 class="ff-serif">Design system</h1>
+	<h1 class="ff-serif ">Design system</h1>
 
 	<Colors />
 	<Typography />
