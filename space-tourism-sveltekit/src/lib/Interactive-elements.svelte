@@ -31,6 +31,23 @@
 
 			<div style="margin-bottom: 50vh">
 				<!-- Tabs -->
+				<div class="tab-list underline-indicators flex" style="gap: 8rem">
+					<button
+						aria-selected="true"
+						class="uppercase text-accent bg-dark letter-spacing-2 ff-sans-condensed active tab-button"
+						>Moon</button
+					>
+					<button
+						aria-selected="false"
+						class="uppercase text-accent bg-dark letter-spacing-2 ff-sans-condensed tab-button"
+						>Mars</button
+					>
+					<button
+						aria-selected="false"
+						class="uppercase text-accent bg-dark letter-spacing-2 ff-sans-condensed tab-button"
+						>Europa</button
+					>
+				</div>
 
 				<!-- Dots -->
 
